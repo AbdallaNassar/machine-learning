@@ -23,7 +23,6 @@ It is your job to predict the sales price for each house. For each Id in the tes
 * pandas
 * numpy
 
-# Redmi Data Description
 
 ## Data Fields
 
@@ -109,3 +108,5 @@ Here's a brief version of what you'll find in  dataset columns .
 - YrSold: Year Sold
 - SaleType: Type of sale
 - SaleCondition: Condition of sale
+
+### If you find this repo useful,don't forget to give a ⭐
